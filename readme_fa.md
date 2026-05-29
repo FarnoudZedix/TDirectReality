@@ -152,8 +152,8 @@ Inbounds → Add Inbound
 
 | فیلد | مقدار |
 |---|---|
-| Dest | www.yahoo.com:443 |
-| SNI | www.yahoo.com |
+| Dest | www.microsoft.com:443 |
+| SNI | www.microsoft.com |
 | Fingerprint | chrome |
 | Public Key | کلید عمومی |
 | Private Key | کلید خصوصی |
